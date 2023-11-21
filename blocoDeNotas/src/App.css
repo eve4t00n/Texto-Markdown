@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+.appName{
+    text-align: center;
+}
+textarea{
+    width: 100%;
+}
+.inputBody{
+    padding-top: 30px;
+}
+.textoAlterado{
+    margin-left: 50px;
+}
+.markInput{
+    outline: none;
+}
+.titulo{
+    width: 90%;
+}
