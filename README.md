@@ -43,3 +43,26 @@ Já para transformar em markdown o pacote faz isso automaticamente através do c
 ## Documentação
 
 Para entender melhor como o Markdown funciona você pode acessar a documentação resumida [aqui](/blocoDeNotas/README.md) ou uma documentação mais detalhada nesse [link](https://markdown.net.br/sintaxe-basica/)
+
+## Instalação
+
+Caso deseje testar o código em seu computador esse é o passo a passo para executá-lo no VsCode:
+
+- Faça um clone desse repositório
+
+```
+git clone https://github.com/eve4t00n/Texto-Markdown.git
+code .
+```
+  
+- Abra um terminal (Ctrl + Shift + ')
+- Digite os seguintes comandos:
+
+```
+cd blocoDeNotas
+npm i
+npm run dev
+```
+- Abra uma nova aba no navegador com a seguinte url: localhost:5173
+
+Pronto para usar, só testar
